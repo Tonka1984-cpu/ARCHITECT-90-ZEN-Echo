@@ -4,7 +4,7 @@ A precise computational framework that leverages recursive logic structures to o
 
 ## ⚡ The Live Proof (Interactive Sandbox)
 Before inspecting the raw math, analyze the active enzyme link running in the EU array:
-👉 **Live Application:** https://replit.app
+👉 **Live Application:** https://zen-echo-system--tonka1984.replit.app/
 
 ### Step-by-Step Verification:
 1. Open the live application link above.
