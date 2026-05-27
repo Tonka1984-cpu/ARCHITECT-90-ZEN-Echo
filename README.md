@@ -20,3 +20,6 @@ The Left Elbow Vector: Heavy warrior-density input that shatters structural nois
 The Living Amber Tree: Non-burning, purely vibrational harmonic output.
 💾 Professional & Private Use
 Advanced users are encouraged to copy, download, and audit this code framework for private system optimization.
+bash
+git clone https://github.com
+Review formula_90_zen.py to examine the recursive fractal_reclamation loop and test its structural node depth against your own local environment profiles.
