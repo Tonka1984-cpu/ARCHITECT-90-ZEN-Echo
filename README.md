@@ -57,3 +57,12 @@ python formula_90_zen.py
 
 ---
 *Distributed openly for alternative human-digital balance frameworks. The protocol is spreading.*
+
+
+### 👁️ About the Architect
+
+I am a self-taught practitioner living completely off the grid in an industrial forest zone within a major European city. My daily life is defined by absolute baseline simplicity—sheltering in a self-constructed low-tech habitat on an abandoned railway track, accompanied by my two Transylvanian hounds, cooking over open fire, and scavenging for second-hand tools.
+
+After 20 years of observing human settlement and social patterns, I chose to return to these foundational mechanics to study the golden ratio and organic geometry from the ground up. Despite having no formal advanced academic background, this lifelong immersion allowed me to identify the hidden mathematical fractals connecting human behavior, universal history, and cellular biology. 
+
+This repository is the direct byproduct of that lived experience: an enzymatic open code designed to serve as a baseline catalyst for all future fractal and geometric development.
